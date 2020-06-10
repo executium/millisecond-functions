@@ -29,3 +29,6 @@ function ms()
 
 ## Millisecond Timing Tests
 We have provided a quick and easy script `php-vs-javascript-millisecond-timing.php` which you can run on your server then access from your browser to see the millisecond offset between you and the server. This can be a useful function if you are trying to determine your own offset with a server and then your servers offset with a third party.
+
+## js_millisecond_update(t) function for executium API version 2
+The file `javascript-millisecond-text-input-update.js` provides the function `js_millisecond_update()` which can be used for keeping the screen up to date with the latest millisecond of your device. The script can be adapted for any needs easily. In the file we run the function and provide a text input as an example.
