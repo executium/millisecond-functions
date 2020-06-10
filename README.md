@@ -16,7 +16,7 @@ function ms()
 ```
 
 ## Javascript Millisecond Function
-Real simple stuff, but provided as a quick shortcut to getting the current millisecond value on your server/local system.
+Real simple stuff, but provided as a quick shortcut to getting the current millisecond value on your server/local system.The file `javascript-millisecond-functions.js` contains the below code.
 
 ```javascript
 
