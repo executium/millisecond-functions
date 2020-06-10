@@ -1,5 +1,5 @@
 # Millisecond Functions
-A small repo provided multiple millisecond functions for which we use within our API, provided as a useful shortcut for anyone using our API (or other unrelated projects) to generate a timestamp
+A small repo providing multiple millisecond functions for which we use within our API, provided as a useful shortcut for anyone using our API (or other unrelated projects) to generate a timestamp
 
 ## PHP Millisecond Functions
 Examples provided in the `php-millisecond-function.php`
@@ -26,3 +26,6 @@ function ms()
 }
 
 ```
+
+## Millisecond Timing Tests
+We have provided a quick and easy script `php-vs-javascript-millisecond-timing.php` which you can run on your server then access from your browser to see the millisecond offset between you and the server. This can be a useful function if you are trying to determine your own offset with a server and then your servers offset with a third party.
