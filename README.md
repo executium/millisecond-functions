@@ -5,7 +5,7 @@ A small repo provided multiple millisecond functions for which we use within our
 Examples provided in the `php-millisecond-function.php`
 
 
-```
+```php
 
 function ms()
 {
