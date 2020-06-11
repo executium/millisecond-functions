@@ -1,5 +1,7 @@
 # Millisecond Functions
-A small repo providing multiple millisecond functions for which we use within our API, provided as a useful shortcut for anyone using our API (or other unrelated projects) to generate a timestamp
+A small repository providing multiple millisecond functions for which we use within the executium API Version 2, provided as a useful shortcut for anyone using our API (or other unrelated projects) to generate a timestamp.
+
+This repository is reference in our API documentation when a user utilizes the endpoint `system/ping`
 
 ## PHP Millisecond Function
 Examples provided in the `php-millisecond-function.php`
